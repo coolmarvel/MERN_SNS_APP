@@ -1,0 +1,8 @@
+.first {
+  position: absolute;
+  top: -100px;
+  width: 100%;
+  height: 100vh;
+  z-index: 30;
+  overflow: hidden;
+}
